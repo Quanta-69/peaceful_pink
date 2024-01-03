@@ -146,6 +146,7 @@ button:hover{
 }
 #footer h1{
     color: plum;
+    padding-top: 0.5cm;	
 }
 .social{
 	display: flex;
